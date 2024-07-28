@@ -1,0 +1,11 @@
+<botcomponent schemaname="crf86_alamedaItdChatBot.knowledge.PublicSiteSearchSource.0">
+  <componenttype>16</componenttype>
+  <description>This knowledge source searches information on the web found in https://itd.alamedacountyca.gov/ website</description>
+  <iscustomizable>0</iscustomizable>
+  <name>https://itd.alamedacountyca.gov/</name>
+  <parentbotid>
+    <schemaname>crf86_alamedaItdChatBot</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

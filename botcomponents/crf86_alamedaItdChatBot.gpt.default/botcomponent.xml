@@ -1,0 +1,11 @@
+<botcomponent schemaname="crf86_alamedaItdChatBot.gpt.default">
+  <componenttype>15</componenttype>
+  <description>A bot for Alameda ITD's website.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Alameda ITD ChatBot</name>
+  <parentbotid>
+    <schemaname>crf86_alamedaItdChatBot</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
